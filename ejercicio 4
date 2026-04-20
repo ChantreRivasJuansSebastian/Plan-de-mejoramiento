@@ -1,7 +1,11 @@
 Algoritmo PromedioNotas
     Definir n1, n2, n3, promedio Como Real
-    Escribir "Ingrese la nota 1, 2 y 3:"
-    Leer n1, n2, n3
+    Escribir "Ingrese la nota 1 :"
+    Leer n1
+	Escribir " ingrese la nota 2"
+	leer n2
+	Escribir  " ingresela nota 3"
+	leer n3
     promedio <- (n1 + n2 + n3) / 3
     Escribir "El promedio final es: ", promedio
 FinAlgoritmo
