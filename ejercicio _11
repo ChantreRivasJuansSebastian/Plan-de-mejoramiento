@@ -1,5 +1,5 @@
 Algoritmo EdadDias
-    Definir edad_anos, dias Como Entero
+    Definir edad_años, dias Como Entero
     Escribir "Ingrese su edad en años:"
     Leer edad_anos
     dias <- edad_anos * 365
